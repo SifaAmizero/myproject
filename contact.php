@@ -7,7 +7,7 @@
     </head>
     <body>
     <nav class="nav">
-        <h1>contact us</h1>
+        <h1>Contact us</h1>
         <div>
             <form action="">
                 <label for="">Name:Amizero Sifa</label><br/>
