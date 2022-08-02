@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+input{
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding-right: 7rem;
+}
+form{
+    margin-top: 6rem;
+}
+#Message{
+    padding-bottom: 10rem;
+}
+button{
+    padding: .7rem 1.5rem .7rem 1.5rem;
+    border-radius: 30px;
+    background-color: blue;
+    color: white;
+    font-weight: 5rem;
+}
+.contact{
+    margin-top: 6rem;
+}
+h1{
+    margin-top: 3rem;
+}
+.nav{
+    text-align: center; 
+    box-sizing: border-box; 
+    background-color: black; 
+    width: 40%; 
+    margin-left: 22rem; 
+    border-radius: 20px;
+}
